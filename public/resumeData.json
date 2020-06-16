@@ -1,11 +1,9 @@
 {
   "main": {
     "name":"Karla Daniela Calderon Sanchez",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    
     "image":"profilepic.jpg",
     "bio":"Me encantaria poder entrar a formar parte de una empresa en la que pueda aplicar mis conocimientos y, al mismo tiempo, que me permita desarrollarme profesionalmente. Gracias a mi formacion, considero que puedo aportar valor y seguir desarrollandome profesionalmente en una empresa.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "16041212@itdurango.edu.mx",
     "phone": "618-258-5076",
     "address":{

@@ -15,15 +15,12 @@ class Resume extends Component {
         return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
       })
     }
-
     return (
       <section id="resume">
-
       <div className="row education">
          <div className="three columns header-col">
             <h1><span>Educacion</span></h1>
          </div>
-
          <div className="nine columns main-col">
             <div className="row item">
                <div className="twelve columns">
@@ -32,22 +29,13 @@ class Resume extends Component {
             </div>
          </div>
       </div>
-
-
-
-
-
       <div className="row skill">
-
          <div className="three columns header-col">
             <h1><span>Habilidades</span></h1>
          </div>
-
          <div className="nine columns main-col">
-
             <p>{skillmessage}
             </p>
-
 				<div className="bars">
 				   <ul className="skills">
 					  {skills}
