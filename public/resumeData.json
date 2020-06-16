@@ -1,0 +1,79 @@
+{
+  "main": {
+    "name":"Karla Daniela Calderon Sanchez",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Me encantaria poder entrar a formar parte de una empresa en la que pueda aplicar mis conocimientos y, al mismo tiempo, que me permita desarrollarme profesionalmente. Gracias a mi formacion, considero que puedo aportar valor y seguir desarrollandome profesionalmente en una empresa.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "16041212@itdurango.edu.mx",
+    "phone": "618-258-5076",
+    "address":{
+      "city":"Durango",
+      "state":"Durango",
+      "zip": "34217"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/DanielaCalderonSanchez2",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/danielacalderonsn/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/danielacs",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Habilidades que aun sigo desarrollando...",
+    "education":[
+      {
+        "school":"Universidad",
+        "degree":"Ingenieria en Sistemas Computacionales",
+        "graduated":"Junio 2021",
+        "description":"En los años cursados he aprendido principalmente la importancia de saber trabajar en equipo. Mis habilidades programando mejoraron, así como la lógica para resolver problemas y/o programas "
+      },
+      {
+        "school":"CBTis #130",
+        "degree":"Programacion",
+        "graduated":"Junio 2016"
+        
+      }
+    ],
+    
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"10%"
+      },
+      {
+        "name":"CSS",
+        "level":"20%"
+      },
+      {
+        "name":"HTML5",
+        "level":"50%"
+      },
+      {
+        "name":"MySql",
+        "level":"60%"
+      }
+    ]
+  }
+}
